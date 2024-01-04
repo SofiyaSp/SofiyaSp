@@ -1,4 +1,4 @@
-# Welcome to my Profile
+# Welcome to my Profile!
 ### My name is Sofiya and I am currently a 3rd year engineering student at UBC
 
 ### My interests include:
