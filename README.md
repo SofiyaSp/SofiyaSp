@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @SofiyaSp
-- 👀 I’m interested in Signal Processing and Hardware Description
-- 🌱 I’m currently studying Electrical Engineering
-- 💞️ I’m looking to collaborate on projects and expand my experience with firmware
+# Welcome to my Profile
+### My name is Sofiya and I am currently a 3rd year engineering student at UBC
+
+### My interests include:
+- Embedded programming
+- Signal Processing
+- FPGA/ASIC Design
+- Hardware/firmware design
 
 <!---
 SofiyaSp/SofiyaSp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
