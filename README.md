@@ -2,9 +2,9 @@
 ### My name is Sofiya and I am currently a 3rd year engineering student at UBC
 
 ### My interests include:
-- Embedded programming
-- Signal Processing
 - FPGA/ASIC Design
+- Signal Processing
+- Embedded programming
 - Hardware/firmware design
 
 <!---
